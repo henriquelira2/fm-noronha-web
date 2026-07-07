@@ -12,6 +12,13 @@ Versao web da FM Noronha 96.9, feita com React, Vite e TypeScript. O app e indep
 - Programacao, modais de sobre/compartilhar/avaliar e estados de carregamento/erro.
 - Deploy preparado para Vercel com `vercel.json`.
 
+## Repositorios
+
+| Projeto | Repositorio |
+| ------- | ----------- |
+| Web | [henriquelira2/fm-noronha-web](https://github.com/henriquelira2/fm-noronha-web) |
+| Mobile | [henriquelira2/NEW_FM_NORONHA](https://github.com/henriquelira2/NEW_FM_NORONHA) |
+
 ## Tecnologias
 
 - React 19
@@ -126,3 +133,8 @@ Tambem teste no navegador:
 - Modal de compartilhar.
 - Responsividade em desktop e mobile.
 
+## Links Uteis
+
+- [Repositorio web](https://github.com/henriquelira2/fm-noronha-web)
+- [Repositorio mobile](https://github.com/henriquelira2/NEW_FM_NORONHA)
+- [Deploy na Vercel](./docs/DEPLOY.md)

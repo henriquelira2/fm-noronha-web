@@ -2,9 +2,14 @@
 
 Este projeto esta pronto para deploy como um app Vite independente.
 
+## Repositorios
+
+- Web: [henriquelira2/fm-noronha-web](https://github.com/henriquelira2/fm-noronha-web)
+- Mobile: [henriquelira2/NEW_FM_NORONHA](https://github.com/henriquelira2/NEW_FM_NORONHA)
+
 ## Deploy Pela Interface da Vercel
 
-1. Crie ou escolha um repositorio Git para a pasta `web/`.
+1. Use o repositorio [henriquelira2/fm-noronha-web](https://github.com/henriquelira2/fm-noronha-web).
 2. Importe o repositorio na Vercel.
 3. Confirme as configuracoes:
    - Framework Preset: `Vite`
@@ -84,4 +89,3 @@ Ela e usada nos metadados Open Graph/Twitter do `index.html` e tambem no README.
 - Conferir se o player inicia apos clique do usuario.
 - Testar responsividade em mobile.
 - Conferir se o dominio publicado usa HTTPS.
-
