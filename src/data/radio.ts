@@ -1,6 +1,7 @@
 export const RADIO_FREQUENCY = '96.9';
 
-export const RADIO_STREAM_URL = 'https://8136.brasilstream.com.br/stream';
+export const RADIO_STREAM_URL =
+  import.meta.env.VITE_RADIO_STREAM_URL || 'https://8136.brasilstream.com.br/stream';
 
 export const PLAY_STORE_URL =
   'https://play.google.com/store/apps/details?id=com.atdefn.FM.Noronha';
